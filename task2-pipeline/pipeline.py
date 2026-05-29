@@ -19,7 +19,7 @@ LATITUDE = 13.0827
 LONGITUDE = 80.2707
 DAYS_BACK = 7
 
-BQ_PROJECT = "your-gcp-project-id"
+BQ_PROJECT = "fyndai-test-project"
 BQ_DATASET = "marketing_weather"
 BQ_TABLE   = "hourly_conditions"
 

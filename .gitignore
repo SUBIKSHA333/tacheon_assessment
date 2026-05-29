@@ -1,0 +1,10 @@
+# Credentials - never commit this
+task2-pipeline/credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files
+task2-pipeline/output/
